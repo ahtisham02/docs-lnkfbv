@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-5rzh3z.cingbet138.site/sitemap.xml
